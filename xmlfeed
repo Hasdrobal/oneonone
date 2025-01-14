@@ -43,7 +43,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -90,7 +95,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -137,7 +147,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -181,7 +196,12 @@
 <![CDATA[null]]>
 </Locality>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -228,7 +248,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -278,7 +303,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -328,7 +358,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -375,7 +410,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -422,7 +462,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -469,7 +514,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -516,7 +566,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -563,7 +618,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -610,7 +670,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -657,7 +722,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 <Property>
@@ -704,7 +774,12 @@
 <![CDATA[Tarek Youssef Ghalayini]]>
 </Listing_Agent>
 <Portals>
-<![CDATA[{"portal":"Bayut"}]]>
+<Portal>
+<![CDATA[Bayut]]>
+</Portal>
+<Portal>
+<![CDATA[dubizzle]]>
+</Portal>
 </Portals>
 </Property>
 </Properties>
